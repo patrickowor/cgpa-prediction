@@ -1,0 +1,15 @@
+{
+  "name": "gpa",
+  "version": "1.0.0",
+  "description": "gpa project 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "(cd template && start npm run dev) && (cd .. && uvicorn --reload --port 4000 app.main:app)"
+  },
+  "keywords": [
+    "python",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC"
+}
