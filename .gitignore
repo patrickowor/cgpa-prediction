@@ -1,5 +1,5 @@
 .env
-.vscode\
-app\__pycache__\
-migrations\versions\__pycache__\
-template\node_modules
+.vscode/
+**/__pycache__/
+migrations/versions/__pycache__/
+template/node_modules
